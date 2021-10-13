@@ -84,6 +84,7 @@ Caso bibliotecário:
 
 -Terá privilégios de cadastro exclusão e movimentação do acervo e dos usuários.
 Caso aluno:
+
 • série, 
 • nome do aluno, 
 • título do livro, 
