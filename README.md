@@ -1,5 +1,5 @@
 # prj-integrador
-Problema a ser solucionado:
+Problemas a serem solucionados:
 
 1- Disponibilizar catálogo do acervo na pagina a 
 ser criada.
